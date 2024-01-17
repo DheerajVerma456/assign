@@ -1,0 +1,35 @@
+/* src/App.css */
+App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+  background-color: #4caf50; /* Green background color */
+}
+
+form {
+  width: 100%;
+}
+
+.TextField {
+  margin-bottom: 20px;
+}
+
+InputLabel {
+  font-size: 1.2rem; /* Larger label font size */
+  font-weight: bold; /* Bold label */
+  background-color: #4caf50; /* Green background color */
+  color: #fff; /* White text color */
+  padding: 5px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+Button {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 2.5rem; /* Increased heading size */
+  font-weight: bold; /* Bold heading */
+}
